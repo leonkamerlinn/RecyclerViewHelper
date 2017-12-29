@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="activity_padding_horizontal">16dp</dimen>
+    <dimen name="padd_10">10dp</dimen>
+    <dimen name="ic_delete">30dp</dimen>
+    <dimen name="thumbnail">90dp</dimen>
+    <dimen name="default_spacing_small">4dp</dimen>
+    <dimen name="default_spacing_medium">8dp</dimen>
+    <dimen name="default_spacing_huge">128dp</dimen>
+    <dimen name="z_card">4dp</dimen>
+    <dimen name="touch_raise">4dp</dimen>
+</resources>
