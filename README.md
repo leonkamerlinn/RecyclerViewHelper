@@ -3,18 +3,18 @@
 ### Add the JitPack repository to your build file
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 
 ### Add the dependency
 ```gradle
 dependencies {
-	        compile 'com.github.leonkamerlinn:RecyclerViewHelper:1.0.0'
-	}
+	compile 'com.github.leonkamerlinn:RecyclerViewHelper:1.0.0'
+}
 
 ```
 
